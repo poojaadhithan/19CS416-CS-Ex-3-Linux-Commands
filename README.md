@@ -11,13 +11,13 @@ Linux commands are executed in the terminal, which is case-sensitive. This guide
 The `ls` command is used to display a list of contents in a directory.
 
 **Syntax:** 
-```bash
+
 ls
-```
+
 
 **Output:**
-<img width="1417" height="202" alt="639459273-f29979a0-e7df-4a7d-ac51-02f2cc8d4fd3" src="https://github.com/user-attachments/assets/58e09049-3b2e-4a54-bc77-dfe19cbcd5d1" />
 
+<img width="1417" height="202" alt="639459273-f29979a0-e7df-4a7d-ac51-02f2cc8d4fd3" src="https://github.com/user-attachments/assets/58e09049-3b2e-4a54-bc77-dfe19cbcd5d1" />
 
 ### 2. `pwd` Command
 
